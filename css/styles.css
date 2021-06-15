@@ -81,3 +81,19 @@ h2 {
     font-style: italic;
     color: firebrick;
 }
+.bottom {
+    float: right;
+    padding: 2px;
+    border: 2px solid red;
+    text-align: center;
+    display: block;
+    background-color: black;
+}
+.bottom p {
+    font-style: oblique;
+    color: white;
+    font-size: small;
+    padding: 1px;
+    border: 1px solid red;
+
+}
